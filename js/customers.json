@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "AngellL Lewis",
+    "image": "2.svg",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 2,
+    "name": "Justin Dean",
+    "image": "1.svg",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 3,
+    "name": "Nora Blake",
+    "image": "3.svg",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 4,
+    "name": "Russell Fox",
+    "image": "5.svg",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 5,
+    "name": "bbbbb",
+    "image": "4.svg",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 6,
+    "name": "Amanda Aman",
+    "image": "5.svg",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 7,
+    "name": "aa aa",
+    "image": "5.svg",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 8,
+    "name": "aaq",
+    "image": "5.svg",
+    "location": "Los Angeles, CA"
+  }
+]
